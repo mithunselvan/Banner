@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "1090680400313",
+    "firebase_url": "https://banner-47e6f.firebaseio.com",
+    "project_id": "banner-47e6f",
+    "storage_bucket": "banner-47e6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090680400313:android:408b1ddb3be7e870",
+        "android_client_info": {
+          "package_name": "com.example.smitiv.banner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090680400313-6n6gre0pe96ksm181q5r5rhrt65ag3o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAgKj5LHpdf_A94uyY8mwqHLq5SU1yogk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-3783798138160870~3554134497"
+    }
+  ],
+  "configuration_version": "1"
+}
